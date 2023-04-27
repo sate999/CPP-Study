@@ -24,5 +24,11 @@
     <ClCompile Include="Practice3_Lotto.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Practice4_Call.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice5_Achivement.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
